@@ -3,9 +3,6 @@ import logging
 import random
 from aiogram import Bot, Dispatcher, executor, types #імпорт бота
 
-"""
-asdasfasfasfasd
-"""
 
 logging.basicConfig(level=logging.INFO)
 #ініціалізація бота
